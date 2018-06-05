@@ -11,7 +11,7 @@ Lines, that contains rules.
 Vocabulary:
 ^ - XOR
 | - OR
-+ - AND
+\+ - AND
 ! - NOT
 => - Implies
 <=> - if and only if
