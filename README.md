@@ -9,12 +9,12 @@ Input file format:
 First block:
 Lines, that contains rules.
 Vocabulary:
-XOR - ^
-OR - |
-AND - +
-NOT - !
-Implies - =>
-If and only if - <=>
+XOR - ^,
+OR - |,
+AND - +,
+NOT - !,
+Implies - =>,
+If and only if - <=>.
 Second block:
 Single line, starting with '=' - Set of initial facts. All other are false.
 Third block:
